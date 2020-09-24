@@ -10,7 +10,7 @@
       font-family: montserrat, sans-serif;
     }
 
-    h {color: white}
+    h {color: white;}
     p {font-size: 16px; color: white;}
     .margin {margin-bottom: 45px;}
     .kiri {
