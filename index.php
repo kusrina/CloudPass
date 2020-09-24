@@ -20,7 +20,6 @@ nav {
   height: 300px;
   background: #433743;
   padding: 20px;
-  text-color: #FFFFFF;
 }
 
 article {
