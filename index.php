@@ -64,11 +64,9 @@ footer {
 <body>
 <section>
   <nav>
-    <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
-    </ul>
+    <h1>Salam. Hi!</h1>
+    <h2>My name is Citra Ayu Kusrina,</h2>
+    <p>you can call me Citra. I am a student at the State Islamic University of Syarif Hidayatullah Jakarta. My major is informatics engineering, now I'm taking semester 5.</p>
   </nav>
   
   <article>
