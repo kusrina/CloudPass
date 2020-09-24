@@ -20,12 +20,7 @@ nav {
   height: 300px;
   background: #433743;
   padding: 20px;
-}
-
-/* Style the list inside the menu */
-nav ul {
-  list-style-type: none;
-  padding: 0;
+  text-color: #FFFFFF;
 }
 
 article {
@@ -60,6 +55,8 @@ footer {
 }
 </style>
 </head>
+  
+  
   
 <body>
 <section>
