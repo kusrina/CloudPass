@@ -6,10 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <style>
-    * {
-    box-sizing: border-box;
-    }
-
    body {
       font-family: montserrat, sans-serif;
     }
@@ -45,7 +41,7 @@
 <body>
 <section>
   <div class= "kiri text-center">
-    <h1>Salam. Hi!</h1>
+    <h3 class>Salam. Hi!</h1>
     <h2>My name is Citra Ayu Kusrina,</h2>
     <p>you can call me Citra. I am a student at the State Islamic University of Syarif Hidayatullah Jakarta. My major is informatics engineering, now I'm taking semester 5.</p>
   </n>
