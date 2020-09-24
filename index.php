@@ -28,7 +28,7 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #BF95BC;
-  height: 300px; 
+  height: 250px; 
 }
 
 /* Clear floats after the columns */
