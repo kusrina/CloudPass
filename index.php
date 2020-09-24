@@ -14,7 +14,6 @@
     p {font-size: 16px; color: white;}
     .margin {margin-bottom: 45px;}
     .kiri {
-      float: left;
       width: 30%;
       height: 2400px;
       background: #433743;
@@ -34,6 +33,10 @@
       background-color: #BF95BC;
       height: 250px; 
     }
+    .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+    }
   </style>
 </head>
   
@@ -41,7 +44,7 @@
 <body>
   
 <!-- Kiri -->
-<div class="kiri text-center">
+<div class="container-fluid kiri text-center">
   <img src="Ava.jpeg" class="img-responsive img-circle margin" style="display:inline" alt="Ava" width="350" height="350">
   <h3 class="margin">Salam. Hi!</h3>
   <h2>My name is Citra Ayu Kusrina,</h2>
