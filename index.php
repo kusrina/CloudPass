@@ -17,7 +17,7 @@ body {
 nav {
   float: left;
   width: 30%;
-  height: 300px;
+  height: 2400px;
   background: #433743;
   padding: 20px;
   color: white;
