@@ -18,20 +18,21 @@
       height: 2400px;
       background: #433743;
       padding: 0px;
+      color: white;
     }
     .kanan1 {
-      float: left;
       padding: 0px;
       width: 70%;
       background-color: #7C6C8C;
       height: 250px; 
+      color: white;
     }
     .kanan2 {
-      float: left;
       padding: 270px;
       width: 70%;
       background-color: #BF95BC;
       height: 250px; 
+      color: white;
     }
     .container-fluid {
       padding-top: 70px;
