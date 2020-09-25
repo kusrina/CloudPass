@@ -46,7 +46,7 @@
   
 <!-- Kiri -->
 <div class="container-fluid kiri text-center">
-  <img src="Ava.jpeg" class="img-responsive img-circle margin" style="display:inline" alt="Ava" width="350" height="350">
+  <img src="Ava.jpeg" class="img-responsive img-circle margin" style="display:inline" alt="Ava" width="100" height="100">
   <h3 class="margin">Salam. Hi!</h3>
   <h2>My name is Citra Ayu Kusrina,</h2>
   <p>you can call me Citra. I am a student at the State Islamic University of Syarif Hidayatullah Jakarta. My major is informatics engineering, now I'm taking semester 5.</p>
