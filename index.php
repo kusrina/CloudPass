@@ -118,6 +118,7 @@
         <!-- 4 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <img src="images/SC UIN JKT.jpg" alt="" width="300">
+          <h5> </h5>
           <h5>Student Center</h5>
           <h6>This building has 6 floors, is equipped with a field, a prayer room, and many secretariat rooms for Campus Activity Units.</h6>   
         </div>
