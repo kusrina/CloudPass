@@ -11,7 +11,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/main.css">
 
-    <title>Website Portofolio | Aden Rahmandi</title>
+    <title>Cloud Pass Citra-035</title>
   </head>
   <body>
 
@@ -30,10 +30,10 @@
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#karya">Karya</a>
+              <a class="nav-link" href="#karya">Campus Facility</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#kontak">Kontak</a>
+              <a class="nav-link" href="#kontak">WFH Activities</a>
             </li>
           </ul>
         </div>
@@ -49,12 +49,12 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-10">
-          <h4>Aden Rahmandi</h4>
+          <h4>Hi! My name is Citra Ayu Kusrina.</h4>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-10">
-          <h6>Mahasiswa di Binus University</h6>
+          <h6>Student at the Islamic State University of Syarif Hidayatullah Jakarta</h6>
         </div>
       </div>
     </div>
@@ -68,7 +68,8 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
-          <h6>Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu. Vidit dissentiet eos cu eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer</h6>
+          <h6>Hello all! you can call me dinda. I created this website to fulfill a cloud computing assignment that was taught by Mr. Arya. I am writing this during the 6th month of the entry of Covid-19 to Indonesia.</h6>
+          <h6>I will share some of my campus facilities to reminisce, as well as share my activities during WFH.</h6>
         </div>
       </div>
     </div>
