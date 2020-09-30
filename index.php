@@ -94,30 +94,32 @@
       <!-- 1 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-           <img src="images/Landmark UIN JKT.jpg" alt="" width="300">
+          <img src="images/Landmark UIN JKT.jpg" alt="" width="300">
+          <h5>UIN Landmark</h5>
+          <h6>We can use this as a place to have a relaxed chat, accompanied by a cool breeze.</h6>
         </div>
         
         <!-- 2 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/7NWosOnOv08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
+          <img src="images/PLT UIN JKT.jpg" alt="" width="300">
+          <h5>Integrated Laboratory Center</h5>
+          <h6>This lab has 6 floors complete with prayer rooms and toilets. This lab is used for various practicums. Starting from computers, chemistry to physics.</h6>          
         </div>
       </div>
       
       <!-- 3 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/E07vP_pp5Cg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
+          <img src="images/Perpus UIN JKT.jpg" alt="" width="300">
+          <h5>Library</h5>
+          <h6>This building has 6 floors, equipped with books, computers, toilets, prayer rooms and luggage storage.</h6>          
         </div>
         
         <!-- 4 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/W_XbWaloEiw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
+          <img src="images/SC UIN JKT.jpg" alt="" width="300">
+          <h5>Student Center</h5>
+          <h6>This building has 6 floors, is equipped with a field, a prayer room, and many secretariat rooms for Campus Activity Units.</h6>   
         </div>
       </div>
     </div>
