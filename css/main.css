@@ -17,16 +17,16 @@
   margin-bottom: 2%;
 }
 
-.main-cerita {
+.main-intro {
   padding:12% 0;
 }
 
-.main-karya{
+.main-facilities{
   background-color: #DDDDDD;
   padding:12% 0;
 }
 
-.main-karya h6 {
+.main-facilities h6 {
   margin-bottom: 10%;
 }
 
@@ -55,11 +55,11 @@
   margin-bottom: 4%;
 }
 
-.main-kontak {
+.main-WFH {
   padding: 10% 0;
 }
 
-.main-kontak h4 {
+.main-WFH h4 {
   margin-bottom: 4%;
 }
 
