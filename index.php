@@ -19,7 +19,7 @@
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="#">
-          <img src="images/medium.png" alt="" width="30">
+          <img src="images/uin no text.png" alt="" width="30">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -44,7 +44,7 @@
     <div class="container-fluid text-center main-header">
       <div class="row justify-content-center">
         <div class="col-10">
-          <img src="images/aden.jpg" alt="" class="rounded-circle hero-gambar">
+          <img src="images/Ava.jpg" alt="" class="rounded-circle hero-gambar">
         </div>
       </div>
       <div class="row justify-content-center">
@@ -63,12 +63,12 @@
     <div class="container-fluid text-center main-cerita" id="about">
       <div class="row justify-content-center">
         <div class="col-10">
-          <h4>Cerita Saya</h4>
+          <h4>Introduction</h4>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
-          <h6>Hello all! you can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Arya. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. I will share some of my campus facilities to reminisce, as well as share my activities during WFH.</h6>
+          <h6>Hello all! You can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Arya. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. I will share some of my campus facilities to reminisce, as well as share my activities during WFH.</h6>
         </div>
       </div>
     </div>
