@@ -30,7 +30,7 @@
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#karya">Campus Facility</a>
+              <a class="nav-link" href="#karya">Campus Facilities</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#kontak">WFH Activities</a>
@@ -49,7 +49,7 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-10">
-          <h4>Hi! My name is Citra Ayu Kusrina.</h4>
+          <h4>Hi! My name is Citra Ayu Kusrina</h4>
         </div>
       </div>
       <div class="row justify-content-center">
@@ -68,8 +68,7 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
-          <h6>Hello all! you can call me dinda. I created this website to fulfill a cloud computing assignment that was taught by Mr. Arya. I am writing this during the 6th month of the entry of Covid-19 to Indonesia.</h6>
-          <h6>I will share some of my campus facilities to reminisce, as well as share my activities during WFH.</h6>
+          <h6>Hello all! you can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Arya. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. I will share some of my campus facilities to reminisce, as well as share my activities during WFH.</h6>
         </div>
       </div>
     </div>
@@ -78,12 +77,12 @@
     <div class="container-fluid text-center main-karya" id="karya">
       <div class="row justify-content-center">
         <div class="col-10">
-          <h4>Karya Saya</h4>
+          <h4>Campus Facilities</h4>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
-          <h6>Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu. Vidit dissentiet eos cu eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer</h6>
+          <h6>Here are some campus facilities that I think are the most interesting.</h6>
         </div>
       </div>
       <div class="row justify-content-center">
@@ -159,7 +158,7 @@
     <div class="container-fluid text-center main-kontak" id="kontak">
       <div class="row justify-content-center">
         <div class="col-12 text-uppercase">
-          <h4>kontak saya</h4>
+          <h4>WFH Activities</h4>
         </div>
       </div>
       <div class="row justify-content-center">
