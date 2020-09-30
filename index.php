@@ -130,7 +130,7 @@
 
     
     <!-- WFH Activities -->
-    <div class="container-fluid text-center main-facilities" id="facilities">
+    <div class="container-fluid text-center main-wfh" id="wfh">
       <div class="row justify-content-center">
         <div class="col-10">
           <h4>WFH Activities</h4>
@@ -181,7 +181,7 @@
     
     
     <!-- Contact -->
-    <div class="container-fluid text-center main-WFH" id="WFH">
+    <div class="container-fluid text-center main-contact" id="contact">
       <div class="row justify-content-center">
         <div class="col-12 text-uppercase">
           <h4>Let's be friends! Hit me up on :</h4>
