@@ -94,7 +94,7 @@
       <!-- 1 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-           <img src="images/Landmark UIN JKT.jpg" alt="" width="200">
+           <img src="images/Landmark UIN JKT.jpg" alt="" width="300">
         </div>
         
         <!-- 2 -->
