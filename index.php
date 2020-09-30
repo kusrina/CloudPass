@@ -16,6 +16,7 @@
   </head>
   <body>
 
+    
     <!-- Navbar -->
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
@@ -41,6 +42,7 @@
       </div>
     </nav>
 
+    
     <!-- Header -->
     <div class="container-fluid text-center main-header">
       <div class="row justify-content-center">
@@ -59,6 +61,7 @@
         </div>
       </div>
     </div>
+    
 
     <!-- Intro -->
     <div class="container-fluid text-center main-intro" id="intro">
@@ -73,9 +76,10 @@
         </div>
       </div>
     </div>
+    
 
     <!-- Campus Facilities -->
-    <div class="container-fluid text-center main-facilities" id="WFH">
+    <div class="container-fluid text-center main-facilities" id="facilities">
       <div class="row justify-content-center">
         <div class="col-10">
           <h4>Campus Facilities</h4>
@@ -86,70 +90,33 @@
           <h6>Here are some campus facilities that I think are the most interesting.</h6>
         </div>
       </div>
+      
+      <!-- 1 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item"width="560" height="315" src="https://www.youtube.com/embed/1u5rvhd2dJM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
+           <img src="images/Landmark UIN JKT.png" alt="" width="80">
         </div>
+        
+        <!-- 1 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/7NWosOnOv08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
       </div>
+      
+      <!-- 1 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/E07vP_pp5Cg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
+        
+        <!-- 1 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/W_XbWaloEiw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Skill -->
-    <div class="container-fluid main-skill">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 text-uppercase main-title">
-            <h4>skill saya</h4>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12 text-uppercase">
-            <h4>html</h4>
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12 text-uppercase">
-            <h4>css</h4>
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12 text-capitalize">
-            <h4>javaScript</h4>
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12 text-capitalize">
-            <h4>bootstrap</h4>
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
-            </div>
           </div>
         </div>
       </div>
@@ -186,7 +153,7 @@
       </div>
     </div>
 
-    <!--  footer finaly :D -->
+    <!-- footer -->
     <div class="container-fluid text-center main-footer">
       <div class="row">
         <div class="col-12">
