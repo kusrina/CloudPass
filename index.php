@@ -94,10 +94,10 @@
       <!-- 1 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-           <img src="images/Landmark UIN JKT.jpg" alt="" width="80">
+           <img src="images/Landmark UIN JKT.jpg" alt="" width="200">
         </div>
         
-        <!-- 1 -->
+        <!-- 2 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/7NWosOnOv08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -105,7 +105,7 @@
         </div>
       </div>
       
-      <!-- 1 -->
+      <!-- 3 -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <div class="embed-responsive embed-responsive-16by9">
@@ -113,7 +113,7 @@
           </div>
         </div>
         
-        <!-- 1 -->
+        <!-- 4 -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/W_XbWaloEiw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
