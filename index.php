@@ -171,7 +171,7 @@
         
         <!-- Keluarga -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <img src="images/SC UIN JKT.jpg" alt="" width="400">
+          <img src="images/keluarga.jpg" alt="" width="400">
           <h5> </h5>
           <h5>Playing with Little Family</h5>
           <h6>Due to the pandemic, we can't hang out with many people. But as social beings, we still need the direct presence of others. To meet these needs, I play with my little family at home.</h6>   
