@@ -61,7 +61,7 @@
     </div>
 
     <!-- Intro -->
-    <div class="container-fluid text-center main-cerita" id="about">
+    <div class="container-fluid text-center main-intro" id="intro">
       <div class="row justify-content-center">
         <div class="col-10">
           <h4>Introduction</h4>
