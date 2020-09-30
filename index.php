@@ -60,7 +60,7 @@
       </div>
     </div>
 
-    <!-- Cerita -->
+    <!-- Intro -->
     <div class="container-fluid text-center main-cerita" id="about">
       <div class="row justify-content-center">
         <div class="col-10">
@@ -69,13 +69,13 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
-          <h6>Hello all! You can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Firman Munthana. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. I will share some of my campus facilities to reminisce, as well as share my activities during WFH. Enjoy!</h6>
+          <h6>Hello all! You can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Firman Munthana. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. So, I will share some of my campus facilities to reminisce, as well as share my activities during WFH. Enjoy!</h6>
         </div>
       </div>
     </div>
 
-    <!-- Karya -->
-    <div class="container-fluid text-center main-karya" id="karya">
+    <!-- Campus Facilities -->
+    <div class="container-fluid text-center main-facilities" id="WFH">
       <div class="row justify-content-center">
         <div class="col-10">
           <h4>Campus Facilities</h4>
@@ -155,8 +155,8 @@
       </div>
     </div>
 
-    <!-- kontak -->
-    <div class="container-fluid text-center main-kontak" id="kontak">
+    <!-- WFH Activities -->
+    <div class="container-fluid text-center main-WFH" id="WFH">
       <div class="row justify-content-center">
         <div class="col-12 text-uppercase">
           <h4>WFH Activities</h4>
@@ -190,7 +190,7 @@
     <div class="container-fluid text-center main-footer">
       <div class="row">
         <div class="col-12">
-          &copy; copyright 2018 All Rights Reserved. By Aden Rahmandi
+          &copy; copyright 2020 All Rights Reserved. By Citra Ayu Kusrina
         </div>
       </div>
     </div>
