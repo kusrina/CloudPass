@@ -91,34 +91,34 @@
         </div>
       </div>
       
-      <!-- 1 -->
+      <!-- Landmark -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <h5> </h5>
           <img src="images/Landmark UIN JKT.jpg" alt="" width="400">
+          <h5> </h5>
           <h5>UIN Landmark</h5>
           <h6>We can use this as a place to have a relaxed chat, accompanied by a cool breeze.</h6>
         </div>
         
-        <!-- 2 -->
+        <!-- PLT -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <h5> </h5>
           <img src="images/PLT UIN JKT.jpg" alt="" width="400">
+          <h5> </h5>
           <h5>Integrated Laboratory Center</h5>
           <h6>This lab has 6 floors complete with prayer rooms and toilets. This lab is used for various practicums. Starting from computers, chemistry to physics.</h6>          
         </div>
       </div>
       
-      <!-- 3 -->
+      <!-- Perpus -->
       <div class="row justify-content-center">
         <div class="col-md-4 mb-4 px-md-2 px-5">
-          <h5> </h5>
           <img src="images/Perpus UIN JKT.jpg" alt="" width="400">
+          <h5> </h5>
           <h5>Library</h5>
           <h6>This building has 6 floors, equipped with books, computers, toilets, prayer rooms and luggage storage.</h6>          
         </div>
         
-        <!-- 4 -->
+        <!-- SC -->
         <div class="col-md-4 mb-4 px-md-2 px-5">
           <img src="images/SC UIN JKT.jpg" alt="" width="400">
           <h5> </h5>
@@ -128,31 +128,91 @@
       </div>
     </div>
 
+    
     <!-- WFH Activities -->
-    <div class="container-fluid text-center main-WFH" id="WFH">
+    <div class="container-fluid text-center main-facilities" id="facilities">
       <div class="row justify-content-center">
-        <div class="col-12 text-uppercase">
+        <div class="col-10">
           <h4>WFH Activities</h4>
         </div>
       </div>
       <div class="row justify-content-center">
+        <div class="col-6">
+          <h6>Here are some of my activities that I think are most interesting to do during the Covid-19 pandemic, or it can also be called Work From Home.</h6>
+        </div>
+      </div>
+      
+      <!-- Melukis & Jualan -->
+      <div class="row justify-content-center">
+        <div class="col-md-4 mb-4 px-md-2 px-5">
+          <img src="images/melukis.jpg" alt="" width="400">
+          <h5> </h5>
+          <h5>Painting & Selling</h5>
+          <h6>My hobby is painting. By painting, I feel I can express whatever I am feeling. In addition to my inner satisfaction, I also sell my paintings for pocket money.</h6>
+        </div>
+        
+        <!-- Kelas & Gaming -->
+        <div class="col-md-4 mb-4 px-md-2 px-5">
+          <img src="images/kelas.jpg" alt="" width="400">
+          <h5> </h5>
+          <h5>Online Lectures & Gaming</h5>
+          <h6>Online lectures can be fun at home by choosing the most comfortable room in your house. so as not to stress, I interspersed college by playing games.</h6>          
+        </div>
+      </div>
+      
+      <!-- Masak -->
+      <div class="row justify-content-center">
+        <div class="col-md-4 mb-4 px-md-2 px-5">
+          <img src="images/masak.jpg" alt="" width="400">
+          <h5> </h5>
+          <h5>Cooking</h5>
+          <h6>I like to cook a variety of dishes, from dessert to savory. After the dish is ready, I share to social media along with tutorial.</h6>          
+        </div>
+        
+        <!-- Keluarga -->
+        <div class="col-md-4 mb-4 px-md-2 px-5">
+          <img src="images/SC UIN JKT.jpg" alt="" width="400">
+          <h5> </h5>
+          <h5>Playing with Little Family</h5>
+          <h6>Due to the pandemic, we can't hang out with many people. But as social beings, we still need the direct presence of others. To meet these needs, I play with my little family at home.</h6>   
+        </div>
+      </div>
+    </div>      
+    
+    
+    <!-- Contact -->
+    <div class="container-fluid text-center main-WFH" id="WFH">
+      <div class="row justify-content-center">
+        <div class="col-12 text-uppercase">
+          <h4>Let's be friends! Hit me up on :</h4>
+        </div>
+      </div>
+      
+      <!-- Gmail -->
+      <div class="row justify-content-center">
         <div class="col-sm-1 col-2">
-          <a href="#!">
+          <a href="citrakusrina@gmail.com" target="_blank">
             <img src="images/001-gmail.png" alt="" class="img-fluid">
           </a>
         </div>
+        
+        <!-- FB -->
         <div class="col-sm-1 col-2">
-          <a href="#!">
+          <a href="https://www.facebook.com/profile.php?id=100006327947118" target="_blank">
             <img src="images/002-facebook.png" alt="" class="img-fluid">
           </a>
         </div>
+        
+        <!-- IG -->
         <div class="col-sm-1 col-2">
-          <a href="https://www.instagram.com/rahmande20/" target="_blank">
+          <a href="https://www.instagram.com/kusrinaa/" target="_blank">
             <img src="images/003-instagram.png" alt="" class="img-fluid">
           </a>
         </div>
+        
+        <!-- WA -->
         <div class="col-sm-1 col-2">
-          <a href="#!">
+          <a href="https://wa.me/+6281932127754" target="_blank">
             <img src="images/004-whatsapp.png" alt="" class="img-fluid">
           </a>
         </div>
