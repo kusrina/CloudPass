@@ -11,6 +11,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/main.css">
 
+    <!-- Title -->
     <title>Cloud Pass Citra-035</title>
   </head>
   <body>
@@ -44,7 +45,7 @@
     <div class="container-fluid text-center main-header">
       <div class="row justify-content-center">
         <div class="col-10">
-          <img src="images/Ava.jpg" alt="" class="rounded-circle hero-gambar">
+          <img src="images/Ava.jpeg" alt="" class="rounded-circle hero-gambar">
         </div>
       </div>
       <div class="row justify-content-center">
@@ -68,7 +69,7 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
-          <h6>Hello all! You can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Arya. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. I will share some of my campus facilities to reminisce, as well as share my activities during WFH.</h6>
+          <h6>Hello all! You can call me Citra. I created this website to fulfill a Cloud Computing assignment that was taught by Mr. Firman Munthana. I am writing this during the 6th month of the entry of Covid-19 to Indonesia. I will share some of my campus facilities to reminisce, as well as share my activities during WFH. Enjoy!</h6>
         </div>
       </div>
     </div>
