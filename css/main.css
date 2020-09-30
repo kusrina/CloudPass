@@ -18,11 +18,11 @@
 }
 
 .main-intro {
+  background-color: #DDDDDD;
   padding:10% 0;
 }
 
 .main-facilities{
-  background-color: #DDDDDD;
   padding:12% 0;
 }
 
@@ -30,15 +30,24 @@
   margin-bottom: 10%;
 }
 
+.main-wfh{
+  background-color: #DDDDDD;
+  padding:12% 0;
+}
+
+.main-wfh h6 {
+  margin-bottom: 10%;
+}
+
 .main-title {
   margin-bottom: 4%;
 }
 
-.main-WFH {
+.main-contact {
   padding: 10% 0;
 }
 
-.main-WFH h4 {
+.main-contact h4 {
   margin-bottom: 4%;
 }
 
